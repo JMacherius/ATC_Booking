@@ -1,9 +1,30 @@
-[{
+[
+	{
+		"day": "1",
+		"booking": ["EDDM_N_TWR"]
+	},
+	{
+		"day": "2",
+		"booking": ["EDDM_N_TWR"]
+	},
+	{
+		"day": "3",
+		"booking": ["EDDM_N_TWR"]
+	},
+	{
 		"day": "4",
-		"booking": ["EDDS", "EDGG_E"]
+		"booking": ["EDDM_N_TWR"]
 	},
 	{
 		"day": "5",
-		"booking": ["EDDF", "EDGG_E", "EDUU_W"]
+		"booking": ["EDDM_N_TWR"]
+	},
+	{
+		"day": "6",
+		"booking": ["EDDM_N_TWR"]
+	},
+	{
+		"day": "7",
+		"booking": ["EDDM_N_TWR"]
 	}
 ]
