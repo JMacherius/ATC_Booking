@@ -261,7 +261,7 @@ $imageWidth = 820;
 
 // Create images
 $im = imagecreate($imageWidth, $imageHeight);
-$background_color = imagecolorallocate($im, 240, 240, 240);
+$background_color = imagecolorallocate($im, 245, 245, 245);
 $color_withe = imagecolorallocate($im, 255, 255, 255);
 $color_black = imagecolorallocate($im, 0, 0, 0);
 $color_gray = imagecolorallocate($im, 120, 120, 120);
